@@ -1,0 +1,2 @@
+# CppFreeType271
+OpenGLで文字列を表示するためのライブラリFreeTypeを使ってみた。
